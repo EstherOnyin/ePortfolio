@@ -23,7 +23,7 @@ a:hover {
 
 .homeimgleft {
     display: block;
-    margin-left: 100;
+    margin-left: 100%;
     margin-right: auto;
     width: 30%;
   }
