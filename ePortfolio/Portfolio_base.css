@@ -10,11 +10,29 @@ Date: 1/2/2023
 body{
     background-color: rgb(26, 43, 118);
     color: rgb(218, 204, 204);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman';
     
 }
 
-p.a{
-    text-align-last: center;
+a:visited {
+    color: rgb(132, 196, 132);
+  }
+a:hover {
+    color: #ff002b;
+  }
+
+.homeimgleft {
+    display: block;
+    margin-left: 100;
+    margin-right: auto;
+    width: 30%;
+  }
+
+h2{
+    text-align-last:center;
 }
+p.a{
+    text-align-last: left;
+}
+
 
