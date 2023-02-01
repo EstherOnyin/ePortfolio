@@ -8,8 +8,13 @@ Date: 1/2/2023
 
 
 body{
-    background-color: greenyellow;
-    color: #000;
+    background-color: rgb(26, 43, 118);
+    color: rgb(218, 204, 204);
     font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+p.a{
+    text-align-last: center;
 }
 
