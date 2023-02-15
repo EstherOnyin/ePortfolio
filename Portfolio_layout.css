@@ -9,7 +9,7 @@ Description
     grid-area: title;
     text-align: center;
     background-color: rgb(201, 185, 185);
-    font-family: Hanken+Grotesk;
+    font-family: Hanken, Grotesk;
     color: #100f0f;
     width: 60em;
  }
