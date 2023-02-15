@@ -8,27 +8,40 @@ Description
 .item1 { 
     grid-area: title;
     text-align: center;
-    background-color: white;
+    background-color: rgb(201, 185, 185);
     font-family: Hanken+Grotesk;
-    color: #000;
+    color: #100f0f;
+    width: 60em;
  }
+
 .item2 { 
     grid-area: contact; 
+    margin-left: 5em;
+    margin-top: 2em;
 }
 .item3 { 
     grid-area: skills;
+    margin-left: 5em;
+ }
+ .resume_subheading_skill{
+    font-weight: bold;
  }
 .item4 { 
     grid-area: education; 
+    margin-left: 5em;
 }
 .item5 {
      grid-area: languages; 
+     margin-left: 5em;
     }
 .item6{
     grid-area: profile;
+    margin-left: 5em;
+    margin-top: 2em;
 }
 .item7{
     grid-area: experience;
+    margin-left: 5em;
 }
 
 .grid-container {
@@ -40,7 +53,10 @@ Description
     'education experience experience'
     'education experience experience'
     'languages experience experience';
-  gap: 10px;
-  background-color: #2196F3;
-  padding: 10px;
+  gap: 5px;
+  background-color: #1b67a6;
+  padding: 20px;
+  width: 60em;
+  margin-left: 8em;
+  margin-right: 8em;
 }
