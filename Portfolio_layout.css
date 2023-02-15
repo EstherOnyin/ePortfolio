@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*
 Author:
 Date:
@@ -9,6 +10,7 @@ Description
     text-align: center;
     background-color: white;
     font-family: Hanken+Grotesk;
+    color: #000;
  }
 .item2 { 
     grid-area: contact; 
